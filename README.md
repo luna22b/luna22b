@@ -1,7 +1,7 @@
 ## Hi, I am Brandon! 👋
 
-I'm full-stack developer passionate about building clean, efficient, and user-friendly web applications.
-I take pride in creating visually striking websites that not only look great, but also delivers a smooth 
-experience for users. I am constantly exploring new tools and eager to learn and improve my skills.
+I'm a full-stack developer passionate about building clean, efficient, and user-friendly web applications.
+I love bringing ideas to life through code and take pride in creating striking websites, that not only look great, but delivers a smooth user experience.
+I am constantly exploring new tools and eager to learn, grow, and improve my skills.
 
 
