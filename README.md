@@ -21,7 +21,7 @@ I am constantly exploring new tools and eager to learn, grow, and improve my ski
 - Email: brandon.lunaj@gmail.com
 - LinkedIn: https://www.linkedin.com/in/brandonluna22/
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonluna22&bg_color=fff0f6&show_icons=true&theme=radical)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna22b&show_icons=true&bg_color=fff0f6&text_color=ff69b4&icon_color=ff1493&title_color=ff69b4&theme=light)
 
 
 
