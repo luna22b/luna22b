@@ -11,6 +11,12 @@ I am constantly exploring new tools and eager to learn, grow, and improve my ski
 - HTML5 & CSS3
 - Bootstrap
 
+🚀 When I'm not coding, I enjoy:
+- Hiking and exploring nature 🥾
+- Gaming 🎮 
+- Basketball 🏀
+- Listening to music 🎵
+
 📫 Contact Me: 
 - Email: brandon.lunaj@gmail.com
 - LinkedIn: https://www.linkedin.com/in/brandonluna22/
