@@ -22,7 +22,8 @@ I am constantly exploring new tools and eager to learn, grow, and improve my ski
 - LinkedIn: https://www.linkedin.com/in/brandonluna22/
 
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna22b&show_icons=true&bg_color=FAF3E0&text_color=2E4600&icon_color=486B00&title_color=A2C523&theme=light)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna22b&show_icons=true&bg_color=F5F7FA&text_color=3B6E71&icon_color=88B04B&title_color=5A7D7C&theme=light)
+
 
 
 
