@@ -6,16 +6,11 @@ I'm a full-stack developer passionate about building clean, efficient, and user-
 - JavaScript (ES6+)
 - Node.js
 - Express.js
-- HTML5 & CSS3
-- Bootstrap
+- HTML / CSS / Bootstrap
+- React.js
 
-🚀 When I'm not coding, I enjoy:
-- Hiking and exploring nature 🥾
-- Gaming 🎮 
-- Basketball 🏀
-- Listening to music 🎵
-
-📫 Contact Me:
+  
+📫 Let's Connect:
 - Email: brandon.lunaj@gmail.com
 - LinkedIn: https://www.linkedin.com/in/brandonluna22/
 
