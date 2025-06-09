@@ -6,7 +6,7 @@ I'm a full-stack developer passionate about building clean, efficient, and user-
 - JavaScript (ES6+)
 - Node.js
 - Express.js
-- HTML / CSS / Bootstrap
+- Tailwind
 - React.js
 
   
