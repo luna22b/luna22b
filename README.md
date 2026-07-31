@@ -8,6 +8,7 @@ If I can imagine it, or if I think it'll make my life easier, I will build it.
 🚀 What I'm currently working on
 - A personal portfolio project with Astro & an application that uses real data sets
   and displays information
+
 🛠 My main tech stack is: 
 - TypeScript
 - React
