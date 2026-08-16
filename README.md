@@ -6,8 +6,7 @@ I enjoy building full-stack web applications, especially if it makes life much e
 If I can imagine it, or if I think it'll make my life easier, I will build it.
 
 🚀 What I'm currently working on
-- A personal portfolio project with Astro & an application revolving
-  around datasets.
+- (WIP!)
 
 🛠 My main tech stack is: 
 - TypeScript
